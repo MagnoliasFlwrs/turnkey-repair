@@ -1,4 +1,4 @@
-4500
+4501
 57C:\Users\user\Desktop\black\node_modules\is-glob\index.js132990092847250000 0
 67C:\Users\user\Desktop\black\node_modules\css-tree\lib\syntax\config132996134020479215 1
 61C:\Users\user\Desktop\black\src\assets\images\completed\1.png132973795343126465 0
@@ -10,12 +10,6 @@
 40C:\Users\user\Desktop\black\package.json132996140480985295 0
 77C:\Users\user\Desktop\black\node_modules\css-tree\lib\lexer\prepare-tokens.js132990089824860000 0
 35C:\Users\user\Desktop\black\.vscode132989116054010849 1
-63C:\Users\user\Desktop\black\node_modules\yaml\browser\scalar.js132990089875810000 0
-85C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\array-includes.js132996133980980000 0
-76C:\Users\user\Desktop\black\node_modules\css-tree\lib\common\adopt-buffer.js132990089824860000 0
-58C:\Users\user\Desktop\black\node_modules\binary-extensions132996140478806583 1
-62C:\Users\user\Desktop\black\node_modules\caniuse-lite\dist\lib132996134013610482 1
-53C:\Users\user\Desktop\black\node_modules\yaml\pair.js132990089875810000 0
 86C:\Users\user\Desktop\black\node_modules\@parcel\packager-js\lib\GlobalOutputFormat.js132990089764600000 0
 55C:\Users\user\Desktop\black\node_modules\yaml\util.d.ts132990089875810000 0
 91C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\css-element-function.js132996133980980000 0
@@ -25,7 +19,7 @@
 57C:\Users\user\Desktop\black\node_modules\term-size\vendor132996134013121751 1
 81C:\Users\user\Desktop\black\node_modules\abortcontroller-polyfill\src\ponyfill.js132990089746060000 0
 84C:\Users\user\Desktop\black\node_modules\@parcel\workers\lib\threads\ThreadsChild.js132990089752510000 0
-32C:\Users\user\Desktop\black\dist132997941214990416 1
+32C:\Users\user\Desktop\black\dist132997950920937128 1
 47C:\Users\user\Desktop\black\node_modules\base-x132996134006515852 1
 60C:\Users\user\Desktop\black\node_modules\terser\lib\compress132996134020406490 1
 60C:\Users\user\Desktop\black\node_modules\terser\CHANGELOG.md132996133980570000 0
@@ -69,7 +63,7 @@
 128C:\Users\user\Desktop\black\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\b\index.js132990089870560000 0
 59C:\Users\user\Desktop\black\node_modules\source-map\LICENSE132990089872040000 0
 59C:\Users\user\Desktop\black\node_modules\css-tree\lib\lexer132996134019618176 1
-50C:\Users\user\Desktop\black\src\sass\contacts.scss132997941205769027 0
+50C:\Users\user\Desktop\black\src\sass\contacts.scss132997943501206336 0
 95C:\Users\user\Desktop\black\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json132990089878340000 0
 57C:\Users\user\Desktop\black\node_modules\escalade\license132990089757020000 0
 55C:\Users\user\Desktop\black\node_modules\weak-lru-cache132996134009043576 1
@@ -79,7 +73,7 @@
 62C:\Users\user\Desktop\black\node_modules\readdirp\package.json132990092847220000 0
 65C:\Users\user\Desktop\black\node_modules\terser\tools\domprops.js132996133980570000 0
 98C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\url-scroll-to-text-fragment.js132996133980980000 0
-42C:\Users\user\Desktop\black\src\index.html132997940257213001 0
+42C:\Users\user\Desktop\black\src\index.html132997950622979521 0
 71C:\Users\user\Desktop\black\node_modules\mdn-data\css\units.schema.json132990089872660000 0
 65C:\Users\user\Desktop\black\node_modules\css-what\lib\es\parse.js132990089873490000 0
 91C:\Users\user\Desktop\black\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\COPYRIGHT132990089755440000 0
@@ -92,7 +86,7 @@
 65C:\Users\user\Desktop\black\node_modules\abortcontroller-polyfill132996134006510110 1
 72C:\Users\user\Desktop\black\node_modules\cosmiconfig\dist\loaders.js.map132990089826030000 0
 83C:\Users\user\Desktop\black\node_modules\css-select\lib\pseudo-selectors\filters.js132990089823730000 0
-36C:\Users\user\Desktop\black\src\sass132997912402802237 1
+36C:\Users\user\Desktop\black\src\sass132997946232931860 1
 59C:\Users\user\Desktop\black\node_modules\is-json\.npmignore132990089866810000 0
 68C:\Users\user\Desktop\black\src\assets\images\contacts\image 7.2.png132997912134458995 0
 75C:\Users\user\Desktop\black\node_modules\abortcontroller-polyfill\README.md132990089746060000 0
@@ -103,6 +97,10 @@
 62C:\Users\user\Desktop\black\node_modules\nan\doc\persistent.md132990089736040000 0
 82C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\blobbuilder.js132996133980980000 0
 59C:\Users\user\Desktop\black\node_modules\chrome-trace-event132996134006610981 1
+77C:\Users\user\Desktop\black\node_modules\lmdb\dependencies\lz4\lib\lz4frame.c132990089755440000 0
+47C:\Users\user\Desktop\black\node_modules\parcel132996134008742660 1
+48C:\Users\user\Desktop\black\src\sass\footer.scss132997950919417012 0
+87C:\Users\user\Desktop\black\node_modules\@swc\helpers\lib\_skip_first_generator_next.js132990089821230000 0
 53C:\Users\user\Desktop\black\node_modules\resolve-from132996134008860504 1
 54C:\Users\user\Desktop\black\node_modules\yaml\util.mjs132990089875810000 0
 49C:\Users\user\Desktop\black\node_modules\anymatch132996140478816980 1
@@ -118,7 +116,7 @@
 57C:\Users\user\Desktop\black\node_modules\stable\stable.js132990089822980000 0
 66C:\Users\user\Desktop\black\node_modules\@parcel\types\build-ts.js132990089747450000 0
 96C:\Users\user\Desktop\black\node_modules\@parcel\package-manager\test\NodePackageManager.test.js132990089882420000 0
-46C:\Users\user\Desktop\black\src\sass\main.scss132997912594606515 0
+46C:\Users\user\Desktop\black\src\sass\main.scss132997946412426834 0
 60C:\Users\user\Desktop\black\node_modules\regenerator-runtime132996134008838940 1
 68C:\Users\user\Desktop\black\node_modules\dom-serializer\node_modules132996134003596159 1
 69C:\Users\user\Desktop\black\node_modules\nth-check\lib\esm\compile.js132990089870980000 0
@@ -295,6 +293,12 @@
 48C:\Users\user\Desktop\black\node_modules\@parcel132996140476783835 1
 50C:\Users\user\Desktop\black\node_modules\@trysound132996134003617676 1
 84C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\selection-api.js132996133980980000 0
+63C:\Users\user\Desktop\black\node_modules\yaml\browser\scalar.js132990089875810000 0
+85C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\array-includes.js132996133980980000 0
+76C:\Users\user\Desktop\black\node_modules\css-tree\lib\common\adopt-buffer.js132990089824860000 0
+58C:\Users\user\Desktop\black\node_modules\binary-extensions132996140478806583 1
+62C:\Users\user\Desktop\black\node_modules\caniuse-lite\dist\lib132996134013610482 1
+53C:\Users\user\Desktop\black\node_modules\yaml\pair.js132990089875810000 0
 68C:\Users\user\Desktop\black\node_modules\@parcel\bundler-default\src132996134011906847 1
 63C:\Users\user\Desktop\black\node_modules\is-arrayish\.npmignore132990089879420000 0
 89C:\Users\user\Desktop\black\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\LICENSE132990089755440000 0
@@ -563,8 +567,6 @@
 68C:\Users\user\Desktop\black\node_modules\yaml\browser\types\pairs.js132990089875810000 0
 51C:\Users\user\Desktop\black\node_modules\nullthrows132996134008708855 1
 102C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\client-hints-dpr-width-viewport.js132996133980980000 0
-77C:\Users\user\Desktop\black\node_modules\lmdb\dependencies\lz4\lib\lz4frame.c132990089755440000 0
-47C:\Users\user\Desktop\black\node_modules\parcel132996134008742660 1
 73C:\Users\user\Desktop\black\node_modules\css-tree\lib\syntax\node\Rule.js132990089824860000 0
 65C:\Users\user\Desktop\black\node_modules\term-size\vendor\windows132996134020401495 1
 77C:\Users\user\Desktop\black\node_modules\@parcel\source-map\dist\SourceMap.js132990089739820000 0
@@ -776,7 +778,7 @@
 57C:\Users\user\Desktop\black\node_modules\braces\README.md132990092848570000 0
 61C:\Users\user\Desktop\black\node_modules\@parcel\hash\LICENSE132990089739150000 0
 62C:\Users\user\Desktop\black\node_modules\yaml\browser\index.js132990089875810000 0
-51C:\Users\user\Desktop\black\dist\index.f7626f62.css132997941214913848 0
+51C:\Users\user\Desktop\black\dist\index.f7626f62.css132997950920903903 0
 63C:\Users\user\Desktop\black\node_modules\ordered-binary\LICENSE132990089768300000 0
 60C:\Users\user\Desktop\black\node_modules\yaml\browser\map.js132990089875810000 0
 96C:\Users\user\Desktop\black\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.umd.js.map132990089875990000 0
@@ -1261,9 +1263,6 @@
 67C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features132996134019502140 1
 105C:\Users\user\Desktop\black\node_modules\@swc\helpers\lib\_class_check_private_static_field_descriptor.js132990089821230000 0
 79C:\Users\user\Desktop\black\node_modules\svgo\plugins\convertEllipseToCircle.js132990089805930000 0
-80C:\Users\user\Desktop\black\node_modules\css-tree\lib\utils\createCustomError.js132990089824860000 0
-112C:\Users\user\Desktop\black\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.cmd132996140480456148 0
-89C:\Users\user\Desktop\black\node_modules\source-map-support\browser-source-map-support.js132990089862570000 0
 59C:\Users\user\Desktop\black\node_modules\readdirp\README.md132990092847220000 0
 71C:\Users\user\Desktop\black\node_modules\@parcel\watcher\src\DirTree.cc132990089753010000 0
 72C:\Users\user\Desktop\black\node_modules\svgo\plugins\convertPathData.js132990089805930000 0
@@ -1360,6 +1359,9 @@
 73C:\Users\user\Desktop\black\node_modules\css-tree\lib\generator\create.js132990089824860000 0
 65C:\Users\user\Desktop\black\node_modules\supports-color\readme.md132990089752200000 0
 77C:\Users\user\Desktop\black\node_modules\@swc\helpers\lib\_async_generator.js132990089821230000 0
+80C:\Users\user\Desktop\black\node_modules\css-tree\lib\utils\createCustomError.js132990089824860000 0
+112C:\Users\user\Desktop\black\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.cmd132996140480456148 0
+89C:\Users\user\Desktop\black\node_modules\source-map-support\browser-source-map-support.js132990089862570000 0
 69C:\Users\user\Desktop\black\node_modules\source-map-support\README.md132990089862570000 0
 84C:\Users\user\Desktop\black\node_modules\source-map-support\register-hook-require.js132990089862570000 0
 72C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\regions\BY.js132996133980980000 0
@@ -3663,7 +3665,6 @@
 77C:\Users\user\Desktop\black\node_modules\@swc\helpers\lib\_read_only_error.js132990089821230000 0
 119C:\Users\user\Desktop\black\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines132996134021380293 1
 65C:\Users\user\Desktop\black\node_modules\@swc\helpers\lib\_set.js132990089821230000 0
-87C:\Users\user\Desktop\black\node_modules\@swc\helpers\lib\_skip_first_generator_next.js132990089821230000 0
 83C:\Users\user\Desktop\black\node_modules\@swc\helpers\lib\_sliced_to_array_loose.js132990089821230000 0
 91C:\Users\user\Desktop\black\node_modules\@swc\helpers\lib\_tagged_template_literal_loose.js132990089821230000 0
 67C:\Users\user\Desktop\black\node_modules\@swc\helpers\lib\_throw.js132990089821230000 0
@@ -4146,8 +4147,8 @@
 120C:\Users\user\Desktop\black\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\package.json132990089870560000 0
 110C:\Users\user\Desktop\black\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\foo\package.json132990089870560000 0
 104C:\Users\user\Desktop\black\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg132996134021380293 1
-108C:\Users\user\Desktop\black\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\foo132996134021395292 1
 75C:\Users\user\Desktop\black\node_modules\@parcel\core\src\CommittedAsset.js132990089736130000 0
+108C:\Users\user\Desktop\black\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\foo132996134021395292 1
 113C:\Users\user\Desktop\black\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\index.js132990089870560000 0
 93C:\Users\user\Desktop\black\node_modules\@parcel\core\test\fixtures\library-custom-scopehoist132996134020874428 1
 115C:\Users\user\Desktop\black\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\foo\bar.js132990089870560000 0
@@ -4496,6 +4497,6 @@
 57C:\Users\user\Desktop\black\dist\futurabookc.297b2d00.ttf132996154518974799 0
 57C:\Users\user\Desktop\black\dist\futurademic.7555caeb.ttf132996154518807183 0
 55C:\Users\user\Desktop\black\dist\image 7.2.f42c081c.png132997914380085844 0
-55C:\Users\user\Desktop\black\dist\index.f7626f62.css.map132997941214951671 0
-43C:\Users\user\Desktop\black\dist\index.html132997939913628874 0
+55C:\Users\user\Desktop\black\dist\index.f7626f62.css.map132997950920925615 0
+43C:\Users\user\Desktop\black\dist\index.html132997950625204214 0
 63C:\Users\user\Desktop\black\dist\YesevaOne-Regular.60548bec.ttf132996154518807183 0

@@ -1,0 +1,67 @@
+footer {
+    padding: 48px 0;
+    background-color: #000000;
+
+    .footer__box {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        p {
+            font-family: 'FuturaDemiC';
+            font-size: 14px;
+            line-height: 16px;
+            font-style: normal;
+            color: #E3B873;
+        }
+        .navigation__links {
+            width: 582px;
+            display: flex;
+            justify-content: space-between;
+
+            .navigation__link {
+                color: #FFFFFF;
+                font-family: 'FuturaBookC';
+                font-size: 14px;
+                line-height: 16px;
+                font-style: normal;
+                text-decoration: none;
+            }
+            .act {
+                font-family: 'FuturaBookC';
+                font-size: 14px;
+                line-height: 16px;
+                color: #E3B873;
+                font-style: normal;
+                text-decoration: none;
+            }
+        }
+        .footer__info {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+            .footer__number {
+                font-family: 'FuturaDemiC';
+                font-size: 14px;
+                line-height: 16px;
+                color: #E3B873;
+                font-style: normal;
+                text-decoration: underline;
+            }
+            .footer__button {
+                width: 161px;
+                height: 37px;
+                margin: 0 0 0 45px;
+                background-color: #E3B873;
+                border-radius: 2px;
+                box-shadow: 0px 5px 15px #E3B87333;
+                font-family: 'FuturaDemiC';
+                font-size: 13px;
+                line-height: 15px;
+                text-align: center;
+                font-style: normal;
+                color: #FFFFFF;
+            }
+        }
+    }
+}
