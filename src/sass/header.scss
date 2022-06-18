@@ -1,65 +1,89 @@
-.header {
-    max-width: calc(1438px + 16px * 2);
-    padding: 0 16px;
-    height: 83px;
-    margin: 0 auto;
-    display: flex;
-    justify-content: space-between;
+header {
     background-color: #131313;
-    align-items: center;
-}
-.header__logo {
-    font-family: 'FuturaDemiC';
-    font-size: 14px;
-    line-height: 16px;
-    font-style: normal;
-    color: #E3B873;
-}
-.navigation__links {
-    width: 582px;
-    display: flex;
-    justify-content: space-between;
-}
-.navigation__link {
-    color: #FFFFFF;
-    font-family: 'FuturaBookC';
-    font-size: 14px;
-    line-height: 16px;
-    font-style: normal;
-    text-decoration: none;
-}
-.act {
-    font-family: 'FuturaBookC';
-    font-size: 14px;
-    line-height: 16px;
-    color: #E3B873;
-    font-style: normal;
-    text-decoration: none;
-}
-.header__number {
-    font-family: 'FuturaDemiC';
-    font-size: 14px;
-    line-height: 16px;
-    color: #E3B873;
-    font-style: normal;
-    text-decoration: underline;
-}
-.header__button {
-    width: 161px;
-    height: 37px;
-    margin: 0 0 0 45px;
-    background-color: #E3B873;
-    border-radius: 2px;
-    box-shadow: 0px 5px 15px #E3B87333;
-    font-family: 'FuturaDemiC';
-    font-size: 13px;
-    line-height: 15px;
-    text-align: center;
-    font-style: normal;
-    color: #FFFFFF;
-}
-.header__info {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    padding: 36px 0;
+    width: 100%;
+
+    .header__box {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        .header__logo {
+            font-family: 'FuturaDemiC';
+            font-size: 14px;
+            line-height: 16px;
+            font-style: normal;
+            color: #E3B873;
+
+            @media (max-width:768px) {
+                font-size: 12px;
+                line-height: 14px;
+            }
+        }
+        .navigation__links {
+            width: 582px;
+            display: flex;
+            justify-content: space-between;
+
+            @media (max-width:768px) {
+                display: none;
+            }
+            .navigation__link {
+                color: #FFFFFF;
+                font-family: 'FuturaBookC';
+                font-size: 14px;
+                line-height: 16px;
+                font-style: normal;
+                text-decoration: none;
+
+                &:hover {
+                    font-family: 'FuturaBookC';
+                    font-size: 14px;
+                    line-height: 16px;
+                    color: #E3B873;
+                    font-style: normal;
+                    text-decoration: none;
+                }
+            }
+
+        }
+        .header__info {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+            .header__number {
+                font-family: 'FuturaDemiC';
+                font-size: 14px;
+                line-height: 16px;
+                color: #E3B873;
+                font-style: normal;
+                text-decoration: underline;
+
+                @media (max-width:768px) {
+                    font-size: 12px;
+                    line-height: 14px;
+                    text-align: right;
+                }
+            }
+            .header__button {
+                width: 161px;
+                height: 37px;
+                margin: 0 0 0 45px;
+                background-color: #E3B873;
+                border-radius: 2px;
+                box-shadow: 0px 5px 15px #E3B87333;
+                font-family: 'FuturaDemiC';
+                font-size: 13px;
+                line-height: 15px;
+                text-align: center;
+                font-style: normal;
+                color: #FFFFFF;
+
+                @media (max-width:768px) {
+                    display: none;
+                }
+            }
+        }
+    }
 }

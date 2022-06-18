@@ -7,6 +7,10 @@
 @import url(./clients.scss);
 @import url(./contacts.scss);
 @import url(./footer.scss);
+@import url(./fantasy.scss);
+@import url(./design.scss);
+@import url(./steps.scss);
+@import url(./team.scss);
 
 @font-face {
     font-family: "FuturaDemiC";
@@ -35,4 +39,9 @@
     max-width: calc(1236px + 16px*2);
     padding: 0 16px;
     margin: 0 auto;
+
+    @media (max-width:768px) {
+        padding: 0 18px;
+    }
  }
+

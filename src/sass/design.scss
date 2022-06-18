@@ -1,0 +1,169 @@
+@mixin tariff {
+    padding: 1px 29px 3px 34px;
+    width: 330px;
+    background-color: #FFFFFF;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.03);
+    position: absolute;
+    z-index: 3;
+    top: 294px;
+    left: 31px;
+
+    .tarif__name {
+        font-family: 'Yeseva One';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 25px;
+        color: #363636;
+        margin-bottom: 13px;
+    }
+    ul > li {
+        font-family: 'FuturaBookC';
+        font-size: 15px;
+        line-height: 25px;
+        color: #959595;
+        margin-bottom: 5px;
+    }
+}
+@mixin price {
+    position: absolute;
+    bottom: -27px;
+    left: 0;
+    width: 228px;
+    height: 54px;
+    background-color: rgba(227, 184, 115, 1);
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 17px 72px 17px 33px;
+}
+
+
+
+.design {
+    padding: 153px 0 318px;
+    background-color: #FFFFFF;
+
+    .design__box {
+        position: relative;
+        h4 {
+            font-family: 'Yeseva One';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 20px;
+            line-height: 28px;
+            text-align: center;
+            text-transform: uppercase;
+            color: #181818;
+            margin-bottom: 13px;
+        }
+        svg {
+            display: block;
+            margin: 0 auto;
+        }
+        p {
+            font-family: 'FuturaBookC';
+            font-size: 20px;
+            line-height: 27px;
+            text-align: center;
+            color: #363636;
+            margin-top: 24px;
+        }
+        .design__cards {
+            width: 100%;
+            position: absolute;
+            top: 190px;
+            display: flex;
+            justify-content: space-between;
+
+            .design__card1 {
+                width:392px;
+                height: 421px;
+                background-image: url(../assets/images/design/1.png);
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+                position: relative;
+
+                &::after {
+                    content: "";
+                    position: absolute;
+                    background: rgba(0, 0, 0, 0.3);
+                    width: 100%;
+                    height: 100%;
+                    top: 0;
+                    left: 0;
+                    z-index: 2;
+                }
+                .design__tarif {
+                    @include tariff;
+
+                    .card__price {
+                        @include price;
+                    }
+                }
+
+            }
+            .design__card2 {
+                width:392px;
+                height: 421px;
+                background-image: url(../assets/images/design/2.png);
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+                position: relative;
+
+                &::after {
+                    content: "";
+                    position: absolute;
+                    background: rgba(0, 0, 0, 0.3);
+                    width: 100%;
+                    height: 100%;
+                    top: 0;
+                    left: 0;
+                    z-index: 2;
+                }
+                .design__tarif {
+                    @include tariff;
+
+                    .card__price {
+                        @include price;
+                    }
+                }
+
+            }
+            .design__card3 {
+                width:392px;
+                height: 421px;
+                background-image: url(../assets/images/design/3.png);
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+                position: relative;
+
+                &::after {
+                    content: "";
+                    position: absolute;
+                    background: rgba(0, 0, 0, 0.3);
+                    width: 100%;
+                    height: 100%;
+                    top: 0;
+                    left: 0;
+                    z-index: 2;
+                }
+                .design__tarif {
+                    @include tariff;
+
+                    .card__price {
+                        @include price;
+                    }
+                }
+
+            }
+        }
+    }
+}

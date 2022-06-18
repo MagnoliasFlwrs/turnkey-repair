@@ -1,90 +1,182 @@
-.about__repair {
-    max-width: calc(1438px + 16px *2);
-    padding: 0 16px;
-    margin: 0 auto;
-    height: 707px;
+.about {
+    width: 100%;
     background-color: #131313;
-    display: flex;
-    justify-content: space-between;
+    padding: 0 16px;
 
-}
+    .about__repair {
+        display: grid;
+        grid-template-columns: 82px 1fr;
 
-.about__repair__link__inst {
-    font-family: 'FuturaDemiC';
-    font-size: 14px;
-    line-height: 16px;
-    transform: rotate(90deg);
-    color: #E3B873;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center ;
-    text-decoration: none;
-}
-.about__repair__main {
-    width: 1356px;
-    height: 707px;
-    background-image: url(../assets/images/about/image\ 4.3.png);
-    background-size: cover;
-    z-index: 0;
-}
-.wrapper {
-    width: 1356px;
-    height: 707px;
-    background-color: rgba(0, 0, 0, 0.7);
-    padding: 194px 0 208px 60px;
-}
+        @media (max-width:768px) {
+            display: block;
+        }
 
 
-.about__repair__main__tittle {
-    font-family: 'Yeseva One';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 53px;
-    color: #FFFFFF;
-    max-width: 510px;
-    margin-bottom: 19px;
-    text-transform: uppercase;
+        .inst {
+            transform: rotate(360deg);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            @media (max-width:768px) {
+                display: none;
+            }
+            a {
+            font-family: 'FuturaDemiC';
+            font-size: 14px;
+            line-height: 16px;
+            text-align: center;
+            color: #E3B873;
+            transform: rotate(90deg);
+            text-decoration: none;
+
+            }
+        }
+        .about__repair__main {
+            background-image: url(../assets/images/about/image\ 4.3.png);
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            z-index: 0;
+            position: relative;
+            padding: 194px 0 208px 60px;
+
+            @media (max-width:768px) {
+                padding: 85px 0 61px;
+                margin: 0 auto;
+            }
+
+            &::after {
+                content: "";
+                background-color: rgba(0, 0, 0, 0.7);
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                top: 0;
+                left: 0;
+                z-index: 1;
+            }
+            .wrapper {
+                position: relative;
+                z-index: 2;
+
+                @media (max-width:768px) {
+                    margin: 0 auto;
+                }
+
+                .about__repair__main__tittle {
+                    font-family: 'Yeseva One';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 40px;
+                    line-height: 53px;
+                    color: #FFFFFF;
+                    max-width: 510px;
+                    margin-bottom: 19px;
+                    text-transform: uppercase;
+
+                    @media (max-width:768px) {
+                        font-size: 23px;
+                        line-height: 31px;
+                        margin-bottom: 16px;
+                    }
+                }
+                .rostov {
+                    font-family: 'Yeseva One';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 40px;
+                    line-height: 53px;
+                    color: #E3B873;
+                    text-transform: uppercase;
+
+                    @media (max-width:768px) {
+                        font-size: 23px;
+                        line-height: 31px;
+                    }
+                }
+                .about__repair__main__descr {
+                    font-family: 'FuturaBookC';
+                    font-size: 22px;
+                    line-height: 30px;
+                    color: #FFFFFF;
+                    margin-bottom: 41px;
+                    max-width: 504px;
+
+                    @media (max-width:768px) {
+                        font-size: 18px;
+                        line-height: 24px;
+                        margin-bottom: 32px;
+                    }
+                }
+                .about__repair__main__calc {
+                    width: 207px;
+                    height: 51px;
+                    background-color: #E3B873;
+                    font-family: 'FuturaDemiC';
+                    font-size: 13px;
+                    line-height: 15px;
+                    text-align: center;
+                    color: #FFFFFF;
+                    border-radius: 2px;
+                    box-shadow: 0px 5px 15px #E3B8734D;
+                    margin-right: 20px;
+
+                    @media (max-width:768px) {
+                        width: 338px;
+                        margin-bottom: 26px;
+                    }
+                }
+                .about__repair__main__submit {
+                    border: 1px solid #FFFFFF;
+                    border-radius: 2px;
+                    width: 207px;
+                    height: 51px;
+                    background-color: transparent;
+                    font-family: 'FuturaDemiC';
+                    font-size: 13px;
+                    line-height: 15px;
+                    text-align: center;
+                    color: #FFFFFF;
+
+                    @media (max-width:768px) {
+                        width: 338px;
+                    }
+                }
+
+            }
+        }
+        .scroll {
+            a {
+                width: 247px;
+                height: 97px;
+                background-color: #131313;
+                display: flex;
+                align-items: center;
+                position: absolute;
+                bottom: -48px;
+                left: -82px;
+                z-index: 4;
+                justify-content: center;
+                scroll-behavior: smooth;
+
+                span {
+                    font-family: 'Yeseva One';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 14px;
+                    line-height: 19px;
+                    text-transform: uppercase;
+                    color: #FFFFFF;
+                    margin-right: 12px;
+                }
+
+            }
+
+
+        }
+    }
 }
-.rostov {
-    font-family: 'Yeseva One';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 53px;
-    color: #E3B873;
-    text-transform: uppercase;
-}
-.about__repair__main__descr {
-    font-family: 'FuturaBookC';
-    font-size: 22px;
-    line-height: 30px;
-    color: #FFFFFF;
-    margin-bottom: 41px;
-    max-width: 504px;
-}
-.about__repair__main__calc {
-    width: 207px;
-    height: 51px;
-    background-color: #E3B873;
-    font-family: 'FuturaDemiC';
-    font-size: 13px;
-    line-height: 15px;
-    text-align: center;
-    color: #FFFFFF;
-    border-radius: 2px;
-    box-shadow: 0px 5px 15px #E3B8734D;
-    margin-right: 20px;
-}
-.about__repair__main__submit {
-    border: 1px solid #FFFFFF;
-    border-radius: 2px;
-    width: 207px;
-    height: 51px;
-    background-color: transparent;
-    font-family: 'FuturaDemiC';
-    font-size: 13px;
-    line-height: 15px;
-    text-align: center;
-    color: #FFFFFF;
-}
+
+
+

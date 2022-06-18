@@ -1,0 +1,112 @@
+.steps {
+    background-color: rgba(19, 19, 19, 1);
+    width: 100%;
+    padding: 428px 0 80px;
+
+    .steps__box {
+        display: flex;
+
+        .step__info {
+            max-width: 337px;
+            position: relative;
+            margin-right: 136px;
+            span {
+                font-family: 'FuturaDemiC';
+                font-size: 15px;
+                line-height: 21px;
+                text-transform: uppercase;
+                color: #FFFFFF;
+                margin-bottom: 18px;
+            }
+            h3 {
+                font-family: 'Yeseva One';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 27px;
+                line-height: 37px;
+                text-transform: uppercase;
+                color: #E3B873;
+            }
+            .line {
+                width: 92px;
+                height: 1px;
+                background-color: rgba(227, 184, 115, 1);
+                position: absolute;
+                top: 78px;
+                left: 212px;
+            }
+            .list {
+                margin:92px 0 22px;
+                font-family: 'Yeseva One';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 18px;
+                line-height: 25px;
+                text-transform: uppercase;
+                color: #FFFFFF;
+            }
+            h5 {
+                font-family: 'Yeseva One';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 23px;
+                text-transform: uppercase;
+                color: #E3B873;
+            }
+            p {
+                margin: 16px 0 62px;
+                font-family: 'FuturaBookC';
+                font-size: 15px;
+                line-height: 25px;
+                color: #FFFFFF;
+            }
+        }
+        .steps__descr {
+            margin-top: 87px;
+
+            .stepnumbers {
+                display: grid;
+                grid-template-columns: repeat(3 , 1fr);
+                column-gap: 202px;
+                row-gap: 36px;
+
+                .stepnumber {
+                    display: flex;
+                    flex-direction: column;
+                    max-width: 130px;
+
+                    &:hover {
+                        a , span {
+                            color: #FFFFFF;
+                        }
+                    }
+                    a {
+                        font-family: 'Yeseva One';
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 15px;
+                        line-height: 21px;
+                        text-transform: uppercase;
+                        color: #808080;
+                        text-decoration: none;
+                        border-bottom: 1px solid #87551b;
+                        width: 19px;
+                        margin-bottom: 17px;
+                    }
+                    span {
+                        color: #808080;
+                        font-family: 'FuturaBookC';
+                        font-size: 15px;
+                        line-height: 18px;
+                    }
+                }
+
+            }
+            img {
+                margin-top: 43px;
+            }
+
+        }
+    }
+}
