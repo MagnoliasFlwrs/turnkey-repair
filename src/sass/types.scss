@@ -26,8 +26,27 @@
         display: flex;
         justify-content: space-between;
 
+        @media (max-width:768px) {
+            flex-direction: column;
+            align-items: center;
+        }
+
         .offer {
             position: relative;
+
+            @media (max-width:768px) {
+                &:not(:last-child) {
+                    margin-bottom: 297px;
+                }
+            }
+
+            img {
+                @media (max-width:1024px) {
+                    width: 300px;
+                    height: 340px;
+                }
+            }
+
             .options {
                 width: 330px;
                 padding: 25px 29px 49px 34px;
@@ -38,6 +57,12 @@
                 left: 50%;
                 transform: translate(-50%);
 
+                @media (max-width:1024px) {
+                    width: 270px;
+                    padding: 21px 29px 37px 31px;
+                    top: 223px ;
+                }
+
                 p {
                     font-family: 'Yeseva One';
                     font-style: normal;
@@ -46,6 +71,11 @@
                     line-height: 25px;
                     color: #363636;
                     margin-bottom: 10px;
+
+                    @media (max-width:768px) {
+                        font-size: 15px;
+                        line-height: 21px;
+                    }
                 }
                 ul {
                     li {
@@ -54,28 +84,41 @@
                         line-height: 25px;
                         color: #959595;
                         margin-bottom: 10px;
+
+                        @media (max-width:768px) {
+                            font-size: 13px;
+                            line-height: 22px;
+                        }
                     }
                 }
-            }
-            .price {
-                width: 228px;
-                height: 54px;
-                background-color: rgba(227, 184, 115, 1);
-                box-shadow: 5px 5px 10px rgba(227, 184, 115, 0.3);
-                font-family: 'Yeseva One';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 18px;
-                line-height: 25px;
-                text-transform: uppercase;
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                color: #FFFFFF;
-                position: absolute;
-                top: 670px;
-                left: 50%;
-                transform: translate(-70%);
+                .price {
+                    width: 228px;
+                    height: 54px;
+                    background-color: rgba(227, 184, 115, 1);
+                    box-shadow: 5px 5px 10px rgba(227, 184, 115, 0.3);
+                    font-family: 'Yeseva One';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 18px;
+                    line-height: 25px;
+                    text-transform: uppercase;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    color: #FFFFFF;
+                    position: absolute;;
+                    left: 50%;
+                    bottom: -27px;
+                    transform: translate(-70%);
+
+                    @media (max-width:768px) {
+                        width: 190px;
+                        height: 40px;
+                        font-size: 15px;
+                        line-height: 21px;
+                    }
+
+                }
             }
         }
     }

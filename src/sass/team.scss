@@ -2,6 +2,11 @@
     background: linear-gradient(180deg, rgba(19, 19, 19, 1) 50%, #FFFFFF 50%);
     height: 100%;
 
+    @media (max-width:768px) {
+        background: #131313;
+        padding: 192px 0 80px;
+    }
+
     .team__box {
         h4 {
             font-family: 'Yeseva One';
@@ -31,6 +36,12 @@
             justify-content: space-between;
             margin-bottom: 123px;
 
+            @media (max-width:768px) {
+                flex-direction: column;
+                align-items: center;
+
+            }
+
             .worker1 {
                 background-image: url(../assets/images/workers/1_1.png);
             }
@@ -47,6 +58,13 @@
                 background-size: cover;
                 background-repeat: no-repeat;
                 position: relative;
+
+                @media (max-width:768px) {
+                    &:not(:last-child) {
+                        margin-bottom: 128px;
+                    }
+
+                }
 
                 img {
                     position: absolute;
@@ -104,6 +122,10 @@
             height: 2px;
             background-color: rgba(227, 184, 115, 1);
             margin: 0 auto;
+
+            @media (max-width:768px) {
+                display: none;
+            }
         }
         .wdescr {
             font-family: 'FuturaBookC';
@@ -114,6 +136,10 @@
             margin-top: 16px;
             max-width: 558px;
             margin: 17px auto 0;
+
+            @media (max-width:768px) {
+                display: none;
+            }
         }
     }
 }

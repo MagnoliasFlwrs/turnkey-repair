@@ -8,6 +8,11 @@
     top: 294px;
     left: 31px;
 
+    @media (max-width:768px) {
+        width: 270px;
+        padding: 10px 29px 17px 31px;
+    }
+
     .tarif__name {
         font-family: 'Yeseva One';
         font-style: normal;
@@ -16,15 +21,27 @@
         line-height: 25px;
         color: #363636;
         margin-bottom: 13px;
+
+        @media (max-width:768px) {
+            font-size: 15px;
+            line-height: 21px;
+        }
     }
-    ul > li {
+
+    ul>li {
         font-family: 'FuturaBookC';
         font-size: 15px;
         line-height: 25px;
         color: #959595;
         margin-bottom: 5px;
+
+        @media (max-width:768px) {
+            font-size: 13px;
+            line-height: 22px;
+        }
     }
 }
+
 @mixin price {
     position: absolute;
     bottom: -27px;
@@ -40,16 +57,34 @@
     text-transform: uppercase;
     color: #FFFFFF;
     padding: 17px 72px 17px 33px;
+
+    @media (max-width:768px) {
+        width: 190px;
+        height: 40px;
+        font-size: 15px;
+        line-height: 21px;
+        bottom: -20px;
+        text-align: center;
+        padding: 11px 44px 8px;
+    }
 }
 
 
 
 .design {
-    padding: 153px 0 318px;
-    background-color: #FFFFFF;
+    padding: 153px 0 650px;
+    background: linear-gradient(180deg, #FFFFFF 50%, rgba(19, 19, 19, 1) 50%);
+    height: 100%;
+
+    @media (max-width:768px) {
+        background: #131313;
+        width: 100%;
+        padding: 52px 0 195px;
+    }
 
     .design__box {
         position: relative;
+
         h4 {
             font-family: 'Yeseva One';
             font-style: normal;
@@ -60,11 +95,20 @@
             text-transform: uppercase;
             color: #181818;
             margin-bottom: 13px;
+
+            @media (max-width:768px) {
+                font-size: 15px;
+                line-height: 20px;
+                color: #FFFFFF;
+                margin-bottom: 39px;
+            }
         }
+
         svg {
             display: block;
             margin: 0 auto;
         }
+
         p {
             font-family: 'FuturaBookC';
             font-size: 20px;
@@ -72,16 +116,27 @@
             text-align: center;
             color: #363636;
             margin-top: 24px;
+
+            @media (max-width:768px) {
+                font-size: 22px;
+                line-height: 30px;
+                color: #FFFFFF;
+                margin-bottom: 39px;
+            }
         }
+
         .design__cards {
             width: 100%;
-            position: absolute;
-            top: 190px;
             display: flex;
             justify-content: space-between;
 
+            @media (max-width:768px) {
+                flex-direction: column;
+                align-items: center;
+            }
+
             .design__card1 {
-                width:392px;
+                width: 392px;
                 height: 421px;
                 background-image: url(../assets/images/design/1.png);
                 background-repeat: no-repeat;
@@ -89,6 +144,12 @@
                 background-position: center;
                 position: relative;
 
+                @media (max-width:768px) {
+                    width: 340px;
+                    height: 365px;
+                    margin-bottom: 174px;
+
+                }
                 &::after {
                     content: "";
                     position: absolute;
@@ -101,15 +162,15 @@
                 }
                 .design__tarif {
                     @include tariff;
-
                     .card__price {
                         @include price;
                     }
                 }
 
             }
+
             .design__card2 {
-                width:392px;
+                width: 392px;
                 height: 421px;
                 background-image: url(../assets/images/design/2.png);
                 background-repeat: no-repeat;
@@ -117,6 +178,13 @@
                 background-position: center;
                 position: relative;
 
+                @media (max-width:768px) {
+                    width: 340px;
+                    height: 365px;
+                    margin-bottom: 254px;
+
+                }
+
                 &::after {
                     content: "";
                     position: absolute;
@@ -127,6 +195,7 @@
                     left: 0;
                     z-index: 2;
                 }
+
                 .design__tarif {
                     @include tariff;
 
@@ -136,14 +205,21 @@
                 }
 
             }
+
             .design__card3 {
-                width:392px;
+                width: 392px;
                 height: 421px;
                 background-image: url(../assets/images/design/3.png);
                 background-repeat: no-repeat;
                 background-size: cover;
                 background-position: center;
                 position: relative;
+
+                @media (max-width:768px) {
+                    width: 340px;
+                    height: 365px;
+
+                }
 
                 &::after {
                     content: "";
@@ -155,6 +231,7 @@
                     left: 0;
                     z-index: 2;
                 }
+
                 .design__tarif {
                     @include tariff;
 
