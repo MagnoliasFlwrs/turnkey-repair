@@ -43,7 +43,6 @@
 
             @media (max-width:768px) {
                 padding: 85px 0 61px;
-                margin: 0 auto;
             }
 
             &::after {
@@ -78,7 +77,8 @@
                     @media (max-width:768px) {
                         font-size: 23px;
                         line-height: 31px;
-                        margin-bottom: 16px;
+                        margin:0 auto 16px;
+                        text-align: center;
                     }
                 }
                 .rostov {
@@ -106,7 +106,9 @@
                     @media (max-width:768px) {
                         font-size: 18px;
                         line-height: 24px;
-                        margin-bottom: 32px;
+                        margin: 0 auto 52px;
+                        text-align: center;
+                        max-width: 100%;
                     }
                 }
                 .about__repair__main__calc {
@@ -119,12 +121,18 @@
                     text-align: center;
                     color: #FFFFFF;
                     border-radius: 2px;
+                    border: none;
                     box-shadow: 0px 5px 15px #E3B8734D;
                     margin-right: 20px;
 
+                    &:hover {
+                        box-shadow: 0px 20px 45px #E3B873;
+                    }
+
                     @media (max-width:768px) {
-                        width: 338px;
-                        margin-bottom: 26px;
+                        max-width: 338px;
+                        display: block;
+                        margin:0 auto 26px;
                     }
                 }
                 .about__repair__main__submit {
@@ -140,7 +148,9 @@
                     color: #FFFFFF;
 
                     @media (max-width:768px) {
-                        width: 338px;
+                        max-width: 338px;
+                        display: block;
+                        margin:0 auto;
                     }
                 }
 
@@ -159,6 +169,10 @@
                 z-index: 4;
                 justify-content: center;
                 scroll-behavior: smooth;
+
+                @media (max-width:768px) {
+                    left: -32px;
+                }
 
                 span {
                     font-family: 'Yeseva One';

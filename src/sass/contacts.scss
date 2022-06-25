@@ -32,6 +32,7 @@
     @media (max-width:768px) {
         .map {
             order: 2;
+            margin: 40px 0 20px;
         }
 
     }
@@ -51,6 +52,7 @@
             width: 100%;
             position: relative;
             padding: 0;
+            order: 1;
         }
 
         h4 {
@@ -95,12 +97,59 @@
             margin: 0 0 50px ;
             align-self: center;
 
-            label {
-                margin-left: 10px;
+            .container {
+                display: block;
+                position: relative;
+                padding-left: 35px;
                 font-family: 'FuturaBookC';
                 font-size: 16px;
                 line-height: 22px;
                 color: #FFFFFF;
+            }
+
+            .container input {
+                position: absolute;
+                opacity: 0;
+                cursor: pointer;
+                height: 0;
+                width: 0;
+            }
+            .checkmark {
+                position: absolute;
+                top: 0;
+                left: 0;
+                height: 18px;
+                width: 18px;
+                background-color: transparent;
+                border: 2px solid rgba(227, 184, 115, 1);
+                border-radius: 3px;
+            }
+
+            .container:hover input ~ .checkmark {
+                background-color: #eedfb8;
+            }
+
+            .container input:checked ~ .checkmark {
+                background-color: rgba(227, 184, 115, 1);
+            }
+            .checkmark:after {
+                content: "";
+                position: absolute;
+                display: none;
+            }
+            .container input:checked ~ .checkmark:after {
+                display: block;
+            }
+            .container .checkmark:after {
+                left: 3px;
+                top: 1px;
+                width: 5px;
+                height: 10px;
+                border: solid white;
+                border-width: 0 3px 3px 0;
+                -webkit-transform: rotate(45deg);
+                -ms-transform: rotate(45deg);
+                transform: rotate(45deg);
             }
         }
         button {
@@ -124,7 +173,7 @@
         }
 
     }
-    h4 {
+    .adress {
         max-width: 589px;
         font-family: 'Yeseva One';
         font-style: normal;
@@ -135,12 +184,24 @@
         text-transform: uppercase;
         color: #E3B873;
         margin-top: 15px;
+
+        @media (max-width:768px) {
+            order: 3;
+            font-size: 18px;
+            line-height: 25px;
+        }
     }
     .social {
         margin: 26px 0 40px;
+
+        @media (max-width:768px) {
+            order: 4;
+        }
+
         a {
             margin-right: 10px;
         }
+
     }
     .map {
         position: relative;
@@ -188,6 +249,7 @@
     input {
         width: 100%;
         border: none;
+        outline: none;
     }
     input[type='number'] {
         -moz-appearance:textfield;
@@ -204,6 +266,7 @@
         line-height: 25px;
         color: #FFFFFF;
         background-color: #131313;
+        border: none;
     }
 
 }

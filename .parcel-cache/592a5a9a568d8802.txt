@@ -1,4 +1,4 @@
-4564
+4566
 57C:\Users\user\Desktop\black\node_modules\is-glob\index.js132990092847250000 0
 67C:\Users\user\Desktop\black\node_modules\css-tree\lib\syntax\config132996134020479215 1
 61C:\Users\user\Desktop\black\src\assets\images\completed\1.png132973795343126465 0
@@ -13,7 +13,7 @@
 68C:\Users\user\Desktop\black\node_modules\css-tree\lib\lexer\Lexer.js132990089824860000 0
 90C:\Users\user\Desktop\black\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile132990089755440000 0
 73C:\Users\user\Desktop\black\node_modules\@swc\helpers\lib\_ts_decorate.js132990089821230000 0
-49C:\Users\user\Desktop\black\src\sass\fantasy.scss133001428957108663 0
+49C:\Users\user\Desktop\black\src\sass\fantasy.scss133006291295925944 0
 77C:\Users\user\Desktop\black\node_modules\css-tree\lib\lexer\prepare-tokens.js132990089824860000 0
 35C:\Users\user\Desktop\black\.vscode132989116054010849 1
 86C:\Users\user\Desktop\black\node_modules\@parcel\packager-js\lib\GlobalOutputFormat.js132990089764600000 0
@@ -25,7 +25,7 @@
 57C:\Users\user\Desktop\black\node_modules\term-size\vendor132996134013121751 1
 81C:\Users\user\Desktop\black\node_modules\abortcontroller-polyfill\src\ponyfill.js132990089746060000 0
 84C:\Users\user\Desktop\black\node_modules\@parcel\workers\lib\threads\ThreadsChild.js132990089752510000 0
-32C:\Users\user\Desktop\black\dist133001437901748908 1
+32C:\Users\user\Desktop\black\dist133006451119611432 1
 97C:\Users\user\Desktop\black\node_modules\@babel\highlight\node_modules\color-convert\CHANGELOG.md132990089880370000 0
 65C:\Users\user\Desktop\black\node_modules\css-tree\lib\syntax\node132996134020669422 1
 61C:\Users\user\Desktop\black\src\assets\images\workers\1_1.png133000528787311523 0
@@ -58,7 +58,7 @@
 128C:\Users\user\Desktop\black\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\b\index.js132990089870560000 0
 59C:\Users\user\Desktop\black\node_modules\source-map\LICENSE132990089872040000 0
 59C:\Users\user\Desktop\black\node_modules\css-tree\lib\lexer132996134019618176 1
-50C:\Users\user\Desktop\black\src\sass\contacts.scss133001420829735443 0
+50C:\Users\user\Desktop\black\src\sass\contacts.scss133006451118437431 0
 95C:\Users\user\Desktop\black\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json132990089878340000 0
 57C:\Users\user\Desktop\black\node_modules\escalade\license132990089757020000 0
 55C:\Users\user\Desktop\black\node_modules\weak-lru-cache132996134009043576 1
@@ -68,7 +68,7 @@
 62C:\Users\user\Desktop\black\node_modules\readdirp\package.json132990092847220000 0
 65C:\Users\user\Desktop\black\node_modules\terser\tools\domprops.js132996133980570000 0
 98C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\url-scroll-to-text-fragment.js132996133980980000 0
-42C:\Users\user\Desktop\black\src\index.html133001393192905810 0
+42C:\Users\user\Desktop\black\src\index.html133006450384404994 0
 71C:\Users\user\Desktop\black\node_modules\mdn-data\css\units.schema.json132990089872660000 0
 65C:\Users\user\Desktop\black\node_modules\css-what\lib\es\parse.js132990089873490000 0
 91C:\Users\user\Desktop\black\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\COPYRIGHT132990089755440000 0
@@ -88,12 +88,12 @@
 68C:\Users\user\Desktop\black\src\assets\images\contacts\image 7.2.png132997912134458995 0
 75C:\Users\user\Desktop\black\node_modules\abortcontroller-polyfill\README.md132990089746060000 0
 64C:\Users\user\Desktop\black\node_modules\color-name\package.json132990089783040000 0
-47C:\Users\user\Desktop\black\src\sass\about.scss133000621515709415 0
+47C:\Users\user\Desktop\black\src\sass\about.scss133006295901415782 0
 58C:\Users\user\Desktop\black\src\assets\images\design\1.png133000434452134539 0
 60C:\Users\user\Desktop\black\node_modules\commander\Readme.md132990089737690000 0
 108C:\Users\user\Desktop\black\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\index.js132990089882420000 0
 72C:\Users\user\Desktop\black\node_modules\type-fest\ts41\pascal-case.d.ts132990089872570000 0
-47C:\Users\user\Desktop\black\dist\1.b971f7b5.png133001437889346707 0
+47C:\Users\user\Desktop\black\dist\1.b971f7b5.png133006447588931263 0
 71C:\Users\user\Desktop\black\node_modules\htmlparser2\lib\Tokenizer.d.ts132990089864250000 0
 86C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\css-transitions.js132996133980980000 0
 74C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\ttf.js132996133980980000 0
@@ -111,15 +111,15 @@
 87C:\Users\user\Desktop\black\node_modules\lmdb\node_modules\node-addon-api\noexcept.gypi132990089759760000 0
 70C:\Users\user\Desktop\black\node_modules\cosmiconfig\dist\index.js.map132990089826030000 0
 50C:\Users\user\Desktop\black\node_modules\nan\nan.h132990089736040000 0
-48C:\Users\user\Desktop\black\src\sass\design.scss133001401089561275 0
+48C:\Users\user\Desktop\black\src\sass\design.scss133006310764967501 0
 104C:\Users\user\Desktop\black\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-bdb.txt132990089755440000 0
 72C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\regions\BM.js132996133980980000 0
 58C:\Users\user\Desktop\black\node_modules\lmdb\src\misc.cpp132990089755440000 0
 59C:\Users\user\Desktop\black\src\assets\images\fantasy\4.png133000368307667641 0
 90C:\Users\user\Desktop\black\node_modules\@parcel\utils\test\input\sourcemap\source-root.js132990089745470000 0
-50C:\Users\user\Desktop\black\src\sass\measurer.scss133001437884536255 0
+50C:\Users\user\Desktop\black\src\sass\measurer.scss133006447585263618 0
 72C:\Users\user\Desktop\black\node_modules\cosmiconfig\dist\types.d.ts.map132990089826030000 0
-47C:\Users\user\Desktop\black\src\sass\steps.scss133001352467996602 0
+47C:\Users\user\Desktop\black\src\sass\steps.scss133006314751371329 0
 95C:\Users\user\Desktop\black\node_modules\@parcel\transformer-js\parcel-swc.linux-arm64-gnu.node132990089767310000 0
 77C:\Users\user\Desktop\black\node_modules\lmdb\dependencies\lz4\lib\lz4frame.c132990089755440000 0
 47C:\Users\user\Desktop\black\node_modules\parcel132996134008742660 1
@@ -138,8 +138,8 @@
 57C:\Users\user\Desktop\black\node_modules\stable\stable.js132990089822980000 0
 66C:\Users\user\Desktop\black\node_modules\@parcel\types\build-ts.js132990089747450000 0
 96C:\Users\user\Desktop\black\node_modules\@parcel\package-manager\test\NodePackageManager.test.js132990089882420000 0
-46C:\Users\user\Desktop\black\src\sass\main.scss133000614387340241 0
-55C:\Users\user\Desktop\black\src\sass\onlinecontrol.scss133001427201927639 0
+46C:\Users\user\Desktop\black\src\sass\main.scss133006374793256571 0
+55C:\Users\user\Desktop\black\src\sass\onlinecontrol.scss133006449061557632 0
 69C:\Users\user\Desktop\black\node_modules\nth-check\lib\esm\index.d.ts132990089870980000 0
 75C:\Users\user\Desktop\black\node_modules\type-fest\ts41\delimiter-case.d.ts132990089872570000 0
 69C:\Users\user\Desktop\black\node_modules\node-gyp-build\build-test.js132990089759980000 0
@@ -149,6 +149,9 @@
 51C:\Users\user\Desktop\black\src\assets\images\types132996179522852250 1
 71C:\Users\user\Desktop\black\node_modules\type-fest\source\value-of.d.ts132990089872570000 0
 61C:\Users\user\Desktop\black\src\assets\images\completed\3.png132973795586659153 0
+57C:\Users\user\Desktop\black\node_modules\posthtml\license132990089813830000 0
+81C:\Users\user\Desktop\black\node_modules\type-fest\source\fixed-length-array.d.ts132990089872570000 0
+56C:\Users\user\Desktop\black\src\assets\images\Vector.svg133006351537589986 0
 49C:\Users\user\Desktop\black\src\sass\reserve.scss132974367663152870 0
 65C:\Users\user\Desktop\black\node_modules\node-addon-api\nothing.c132990089759720000 0
 84C:\Users\user\Desktop\black\node_modules\@parcel\optimizer-svgo\lib\SVGOOptimizer.js132990089763000000 0
@@ -172,7 +175,7 @@
 83C:\Users\user\Desktop\black\node_modules\svgo\plugins\removeAttributesBySelector.js132990089805930000 0
 83C:\Users\user\Desktop\black\node_modules\@parcel\transformer-babel\src\constants.js132990089767040000 0
 60C:\Users\user\Desktop\black\node_modules\term-size\readme.md132990089754110000 0
-45C:\Users\user\Desktop\black\src\assets\images133001123359258205 1
+45C:\Users\user\Desktop\black\src\assets\images133006351537589986 1
 84C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\css-animation.js132996133980980000 0
 79C:\Users\user\Desktop\black\node_modules\utility-types\dist\mapped-types.js.map132990089755650000 0
 53C:\Users\user\Desktop\black\src\assets\images\control133001123429805374 1
@@ -198,7 +201,7 @@
 50C:\Users\user\Desktop\black\node_modules\type-fest132996134008978157 1
 77C:\Users\user\Desktop\black\node_modules\node-addon-api\napi-inl.deprecated.h132990089759720000 0
 69C:\Users\user\Desktop\black\node_modules\@parcel\packager-svg\LICENSE132990089763920000 0
-53C:\Users\user\Desktop\black\dist\slider2.7d81772e.png133001437889230484 0
+53C:\Users\user\Desktop\black\dist\slider2.7d81772e.png133006447588833776 0
 91C:\Users\user\Desktop\black\node_modules\@swc\helpers\src\_class_apply_descriptor_update.js132990089821230000 0
 67C:\Users\user\Desktop\black\src\assets\images\fantasy\image 5.1.png133000368568853119 0
 55C:\Users\user\Desktop\black\node_modules\normalize-path132996140478911669 1
@@ -248,7 +251,7 @@
 71C:\Users\user\Desktop\black\node_modules\svgo\plugins\removeComments.js132990089805930000 0
 61C:\Users\user\Desktop\black\src\assets\images\workers\2_2.png133000528974449939 0
 97C:\Users\user\Desktop\black\node_modules\@parcel\package-manager\test\fixtures\empty\package.json132990089882420000 0
-49C:\Users\user\Desktop\black\dist\2_2.e8738b94.png133001437889316811 0
+49C:\Users\user\Desktop\black\dist\2_2.e8738b94.png133006447588931263 0
 93C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\passive-event-listener.js132996133980980000 0
 64C:\Users\user\Desktop\black\node_modules\terser\lib\sourcemap.js132996133980570000 0
 57C:\Users\user\Desktop\black\src\assets\images\types\1.png132996179351386049 0
@@ -331,7 +334,7 @@
 81C:\Users\user\Desktop\black\node_modules\yaml\browser\dist\PlainValue-b8036b75.js132990089875810000 0
 59C:\Users\user\Desktop\black\node_modules\nan\doc\v8_misc.md132990089736040000 0
 59C:\Users\user\Desktop\black\src\assets\images\clients\1.png132997084870574841 0
-55C:\Users\user\Desktop\black\dist\image 4.3.7ffd4356.png133001437889973186 0
+55C:\Users\user\Desktop\black\dist\image 4.3.7ffd4356.png133006447589374819 0
 67C:\Users\user\Desktop\black\node_modules\svgo\plugins\mergePaths.js132990089805930000 0
 70C:\Users\user\Desktop\black\node_modules\source-map-support\LICENSE.md132990089862570000 0
 78C:\Users\user\Desktop\black\node_modules\css-tree\lib\syntax\scope\selector.js132990089824860000 0
@@ -585,15 +588,15 @@
 89C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\css-widows-orphans.js132996133980980000 0
 68C:\Users\user\Desktop\black\node_modules\css-tree\lib\lexer\index.js132990089824860000 0
 80C:\Users\user\Desktop\black\node_modules\terser\lib\compress\compressor-flags.js132996133980570000 0
-73C:\Users\user\Desktop\black\node_modules\@parcel\core\src\ParcelConfig.js132990089736130000 0
-55C:\Users\user\Desktop\black\node_modules\is-binary-path132996140478872403 1
-58C:\Users\user\Desktop\black\node_modules\svgo\lib\style.js132990089805930000 0
 69C:\Users\user\Desktop\black\node_modules\@parcel\transformer-posthtml132996140480184486 1
 84C:\Users\user\Desktop\black\node_modules\@parcel\core\test\fixtures\config\subfolder132996134021202306 1
 62C:\Users\user\Desktop\black\node_modules\color-convert\LICENSE132990089758840000 0
 88C:\Users\user\Desktop\black\node_modules\css-tree\lib\tokenizer\char-code-definitions.js132990089824860000 0
 59C:\Users\user\Desktop\black\node_modules\yaml\browser\types132996134020469219 1
 83C:\Users\user\Desktop\black\node_modules\terser\node_modules\commander\CHANGELOG.md132990089815650000 0
+58C:\Users\user\Desktop\black\node_modules\svgo\lib\style.js132990089805930000 0
+73C:\Users\user\Desktop\black\node_modules\@parcel\core\src\ParcelConfig.js132990089736130000 0
+55C:\Users\user\Desktop\black\node_modules\is-binary-path132996140478872403 1
 76C:\Users\user\Desktop\black\node_modules\css-tree\lib\syntax\atrule\index.js132990089824860000 0
 51C:\Users\user\Desktop\black\node_modules\is-extglob132996140478889596 1
 101C:\Users\user\Desktop\black\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.js132990089878340000 0
@@ -868,7 +871,7 @@
 57C:\Users\user\Desktop\black\node_modules\braces\README.md132990092848570000 0
 61C:\Users\user\Desktop\black\node_modules\@parcel\hash\LICENSE132990089739150000 0
 62C:\Users\user\Desktop\black\node_modules\yaml\browser\index.js132990089875810000 0
-51C:\Users\user\Desktop\black\dist\index.f7626f62.css133001437889538612 0
+51C:\Users\user\Desktop\black\dist\index.f7626f62.css133006451119601342 0
 63C:\Users\user\Desktop\black\node_modules\ordered-binary\LICENSE132990089768300000 0
 60C:\Users\user\Desktop\black\node_modules\yaml\browser\map.js132990089875810000 0
 96C:\Users\user\Desktop\black\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.umd.js.map132990089875990000 0
@@ -981,7 +984,7 @@
 70C:\Users\user\Desktop\black\node_modules\weak-lru-cache\LRFUExpirer.js132990089768370000 0
 80C:\Users\user\Desktop\black\node_modules\@parcel\optimizer-htmlnano\package.json132990089763090000 0
 69C:\Users\user\Desktop\black\node_modules\svgo\plugins\minifyStyles.js132990089805930000 0
-47C:\Users\user\Desktop\black\dist\3.5c1123be.png133001437889221621 0
+47C:\Users\user\Desktop\black\dist\3.5c1123be.png133006447588823802 0
 73C:\Users\user\Desktop\black\node_modules\term-size\vendor\macos\.DS_Store132990089754110000 0
 103C:\Users\user\Desktop\black\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional.cmd132996140480472001 0
 72C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\regions\MX.js132996133980980000 0
@@ -1038,7 +1041,7 @@
 85C:\Users\user\Desktop\black\node_modules\utility-types\dist\functional-helpers.js.map132990089755650000 0
 88C:\Users\user\Desktop\black\node_modules\@parcel\transformer-json\lib\JSONTransformer.js132990089767230000 0
 54C:\Users\user\Desktop\black\node_modules\msgpackr\dist132996134011532749 1
-47C:\Users\user\Desktop\black\dist\2.d7c6de02.png133001437889221621 0
+47C:\Users\user\Desktop\black\dist\2.d7c6de02.png133006447588823802 0
 83C:\Users\user\Desktop\black\node_modules\utility-types\dist\functional-helpers.d.ts132990089755650000 0
 85C:\Users\user\Desktop\black\node_modules\node-gyp-build-optional-packages\optional.js132990089767740000 0
 59C:\Users\user\Desktop\black\node_modules\color-name\LICENSE132990089783040000 0
@@ -1119,8 +1122,6 @@
 69C:\Users\user\Desktop\black\node_modules\type-fest\source\except.d.ts132990089872570000 0
 64C:\Users\user\Desktop\black\node_modules\svgo\lib\svgo\config.js132990089805930000 0
 69C:\Users\user\Desktop\black\node_modules\@parcel\optimizer-terser\src132996134012367914 1
-57C:\Users\user\Desktop\black\node_modules\posthtml\license132990089813830000 0
-81C:\Users\user\Desktop\black\node_modules\type-fest\source\fixed-length-array.d.ts132990089872570000 0
 89C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\screen-orientation.js132996133980980000 0
 78C:\Users\user\Desktop\black\node_modules\type-fest\source\merge-exclusive.d.ts132990089872570000 0
 76C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\mpeg4.js132996133980980000 0
@@ -1323,7 +1324,7 @@
 76C:\Users\user\Desktop\black\node_modules\svgo\plugins\convertStyleToAttrs.js132990089805930000 0
 63C:\Users\user\Desktop\black\node_modules\@parcel\config-default132996134007320166 1
 78C:\Users\user\Desktop\black\node_modules\source-map\lib\source-map-consumer.js132990089872040000 0
-54C:\Users\user\Desktop\black\dist\Group 22.f3c7d288.png133001437889794821 0
+54C:\Users\user\Desktop\black\dist\Group 22.f3c7d288.png133006447589300419 0
 73C:\Users\user\Desktop\black\node_modules\svgo\plugins\convertTransform.js132990089805930000 0
 75C:\Users\user\Desktop\black\node_modules\@parcel\utils\test\input\sourcemap132996134020974134 1
 60C:\Users\user\Desktop\black\node_modules\@parcel\workers\lib132996134012892638 1
@@ -1798,7 +1799,7 @@
 82C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\sql-storage.js132996133980980000 0
 67C:\Users\user\Desktop\black\node_modules\nth-check\lib\index.js.map132990089870980000 0
 76C:\Users\user\Desktop\black\node_modules\@parcel\watcher\prebuilds\win32-x64132996134020191277 1
-47C:\Users\user\Desktop\black\dist\3.16108753.png133001437889746960 0
+47C:\Users\user\Desktop\black\dist\3.16108753.png133006447589260532 0
 77C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\stream.js132996133980980000 0
 75C:\Users\user\Desktop\black\node_modules\domutils\lib\manipulation.d.ts.map132990089871010000 0
 65C:\Users\user\Desktop\black\node_modules\nth-check\lib\parse.d.ts132990089870980000 0
@@ -1970,10 +1971,10 @@
 62C:\Users\user\Desktop\black\node_modules\mdn-data\api\index.js132990089872660000 0
 111C:\Users\user\Desktop\black\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\src132996134021385287 1
 63C:\Users\user\Desktop\black\node_modules\@parcel\plugin\LICENSE132990089756220000 0
-55C:\Users\user\Desktop\black\dist\image 5.1.43dcc99f.png133001437890013074 0
+55C:\Users\user\Desktop\black\dist\image 5.1.43dcc99f.png133006447589402080 0
 77C:\Users\user\Desktop\black\node_modules\mdn-data\api\inheritance.schema.json132990089872660000 0
 72C:\Users\user\Desktop\black\node_modules\lmdb-win32-x64\node.abi102.node132990089798650000 0
-47C:\Users\user\Desktop\black\dist\2.7c8f35f5.png133001437889805050 0
+47C:\Users\user\Desktop\black\dist\2.7c8f35f5.png133006447589300419 0
 64C:\Users\user\Desktop\black\node_modules\@parcel\watcher\LICENSE132990089753010000 0
 70C:\Users\user\Desktop\black\node_modules\lmdb-win32-x64\node.napi.node132990089798650000 0
 68C:\Users\user\Desktop\black\node_modules\lmdb-win32-x64\package.json132990089798650000 0
@@ -2249,7 +2250,7 @@
 65C:\Users\user\Desktop\black\node_modules\is-arrayish\package.json132990089879420000 0
 72C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\regions\VG.js132996133980980000 0
 91C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\spellcheck-attribute.js132996133980980000 0
-47C:\Users\user\Desktop\black\dist\3.1dd70a37.png133001437889346707 0
+47C:\Users\user\Desktop\black\dist\3.1dd70a37.png133006447588998465 0
 72C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\regions\GG.js132996133980980000 0
 61C:\Users\user\Desktop\black\node_modules\import-fresh\license132990089874840000 0
 58C:\Users\user\Desktop\black\node_modules\immutable\LICENSE132990092847160000 0
@@ -3119,7 +3120,7 @@
 101C:\Users\user\Desktop\black\node_modules\@parcel\core\test\fixtures\main-format-mismatch\package.json132990089736130000 0
 94C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\background-position-x-y.js132996133980980000 0
 100C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\background-repeat-round-space.js132996133980980000 0
-47C:\Users\user\Desktop\black\dist\3.0293368d.png133001437889286868 0
+47C:\Users\user\Desktop\black\dist\3.0293368d.png133006447588875658 0
 86C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\background-sync.js132996133980980000 0
 85C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\battery-status.js132996133980980000 0
 77C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\beacon.js132996133980980000 0
@@ -3174,7 +3175,7 @@
 90C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\css-conic-gradients.js132996133980980000 0
 86C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\css-containment.js132996133980980000 0
 83C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\css-counters.js132996133980980000 0
-47C:\Users\user\Desktop\black\dist\1.5e87f564.png133001437889336737 0
+47C:\Users\user\Desktop\black\dist\1.5e87f564.png133006447588890717 0
 85C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\css-cross-fade.js132996133980980000 0
 75C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\menu.js132996133980980000 0
 89C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\features\css-default-pseudo.js132996133980980000 0
@@ -3653,7 +3654,7 @@
 83C:\Users\user\Desktop\black\node_modules\@swc\helpers\src\_sliced_to_array_loose.js132990089821230000 0
 90C:\Users\user\Desktop\black\node_modules\@jridgewell\trace-mapping\dist\types\resolve.d.ts132990089875990000 0
 69C:\Users\user\Desktop\black\node_modules\@parcel\transformer-sass\src132996140478971708 1
-53C:\Users\user\Desktop\black\dist\slider1.28016c9e.png133001437889899957 0
+53C:\Users\user\Desktop\black\dist\slider1.28016c9e.png133006447589331422 0
 77C:\Users\user\Desktop\black\node_modules\@swc\helpers\src\_super_prop_base.js132990089821230000 0
 85C:\Users\user\Desktop\black\node_modules\@swc\helpers\src\_tagged_template_literal.js132990089821230000 0
 91C:\Users\user\Desktop\black\node_modules\@swc\helpers\src\_tagged_template_literal_loose.js132990089821230000 0
@@ -3930,7 +3931,7 @@
 81C:\Users\user\Desktop\black\node_modules\@parcel\transformer-js\node_modules\.bin132996140480117481 1
 79C:\Users\user\Desktop\black\node_modules\@parcel\transformer-image\package.json132990089766260000 0
 70C:\Users\user\Desktop\black\node_modules\@parcel\transformer-image\src132996134012647816 1
-50C:\Users\user\Desktop\black\dist\black.59712999.js133001437889805050 0
+50C:\Users\user\Desktop\black\dist\black.59712999.js133006447589321057 0
 90C:\Users\user\Desktop\black\node_modules\@parcel\transformer-image\src\ImageTransformer.js132990089766260000 0
 88C:\Users\user\Desktop\black\node_modules\@parcel\transformer-image\src\validateConfig.js132990089766260000 0
 83C:\Users\user\Desktop\black\node_modules\@parcel\transformer-image\lib\loadSharp.js132990089766260000 0
@@ -4448,7 +4449,7 @@
 79C:\Users\user\Desktop\black\node_modules\@jridgewell\sourcemap-codec\dist\types132996134019891873 1
 100C:\Users\user\Desktop\black\node_modules\@jridgewell\sourcemap-codec\dist\types\sourcemap-codec.d.ts132990089881250000 0
 76C:\Users\user\Desktop\black\node_modules\@jridgewell\source-map\package.json132990089859380000 0
-47C:\Users\user\Desktop\black\dist\1.b1ace50e.png133001437889746960 0
+47C:\Users\user\Desktop\black\dist\1.b1ace50e.png133006447589249844 0
 73C:\Users\user\Desktop\black\node_modules\@jridgewell\source-map\README.md132990089859380000 0
 83C:\Users\user\Desktop\black\node_modules\@jridgewell\source-map\dist\source-map.mjs132990089859380000 0
 87C:\Users\user\Desktop\black\node_modules\@jridgewell\source-map\dist\source-map.mjs.map132990089859380000 0
@@ -4530,36 +4531,37 @@
 52C:\Users\user\Desktop\black\node_modules\.bin\terser132996140480803006 0
 56C:\Users\user\Desktop\black\node_modules\.bin\terser.cmd132996140480803006 0
 47C:\Users\user\Desktop\black\dist\1.0e4f60c5.png132998681540185579 0
-47C:\Users\user\Desktop\black\dist\1.2535e5c1.png133001437889296880 0
-47C:\Users\user\Desktop\black\dist\1.46f58eab.png133001437889221621 0
-47C:\Users\user\Desktop\black\dist\1.5c07b540.png133001437889746960 0
+47C:\Users\user\Desktop\black\dist\1.2535e5c1.png133006447588885679 0
+47C:\Users\user\Desktop\black\dist\1.46f58eab.png133006447588823802 0
+47C:\Users\user\Desktop\black\dist\1.5c07b540.png133006447589260532 0
 47C:\Users\user\Desktop\black\dist\1.fbffc1b6.png132998681525903901 0
-49C:\Users\user\Desktop\black\dist\1_1.eb1829ce.png133001437889794821 0
+49C:\Users\user\Desktop\black\dist\1_1.eb1829ce.png133006447589290442 0
 47C:\Users\user\Desktop\black\dist\2.00a3a6dd.png132998681540185579 0
-47C:\Users\user\Desktop\black\dist\2.0271b665.png133001437889805050 0
+47C:\Users\user\Desktop\black\dist\2.0271b665.png133006447589300419 0
 47C:\Users\user\Desktop\black\dist\2.b3d2f2b4.png132998681525903901 0
-47C:\Users\user\Desktop\black\dist\2.b47936e4.png133001437889286868 0
-47C:\Users\user\Desktop\black\dist\2.c47065b4.png133001437889826788 0
-47C:\Users\user\Desktop\black\dist\2.ee996d0e.png133001437889736638 0
+47C:\Users\user\Desktop\black\dist\2.b47936e4.png133006447588823802 0
+47C:\Users\user\Desktop\black\dist\2.c47065b4.png133006447589306533 0
+47C:\Users\user\Desktop\black\dist\2.ee996d0e.png133006447589249844 0
 47C:\Users\user\Desktop\black\dist\3.1bc30b8c.png132998681540185579 0
-47C:\Users\user\Desktop\black\dist\3.c3a0a937.png133001437889746960 0
-47C:\Users\user\Desktop\black\dist\3.c92ad498.png133001437889306840 0
-49C:\Users\user\Desktop\black\dist\3_3.fddc2c5f.png133001437889782807 0
-47C:\Users\user\Desktop\black\dist\4.6018eb78.png133001437889899957 0
-54C:\Users\user\Desktop\black\dist\adaptive.84bd525a.png133001437889794821 0
-54C:\Users\user\Desktop\black\dist\black.59712999.js.map133001437889890177 0
-57C:\Users\user\Desktop\black\dist\futurabookc.297b2d00.ttf133001437887873203 0
+47C:\Users\user\Desktop\black\dist\3.c3a0a937.png133006447589260532 0
+47C:\Users\user\Desktop\black\dist\3.c92ad498.png133006447588885679 0
+49C:\Users\user\Desktop\black\dist\3_3.fddc2c5f.png133006447589280466 0
+47C:\Users\user\Desktop\black\dist\4.6018eb78.png133006447589331422 0
+54C:\Users\user\Desktop\black\dist\adaptive.84bd525a.png133006447589290442 0
+54C:\Users\user\Desktop\black\dist\black.59712999.js.map133006447589341452 0
+57C:\Users\user\Desktop\black\dist\futurabookc.297b2d00.ttf133006447587871899 0
 57C:\Users\user\Desktop\black\dist\futurabookc.dff6aceb.ttf132998681507087344 0
-57C:\Users\user\Desktop\black\dist\futurademic.7555caeb.ttf133001437887544669 0
+57C:\Users\user\Desktop\black\dist\futurademic.7555caeb.ttf133006447587705338 0
 54C:\Users\user\Desktop\black\dist\Group 22.684e1ea3.png132998681525903901 0
-53C:\Users\user\Desktop\black\dist\image 3.148b8a2a.png133001437889346707 0
+53C:\Users\user\Desktop\black\dist\image 3.148b8a2a.png133006447588931263 0
 55C:\Users\user\Desktop\black\dist\image 4.3.e99b47a6.png132998681540185579 0
 55C:\Users\user\Desktop\black\dist\image 7.2.0b9e630d.png132998681540185579 0
-55C:\Users\user\Desktop\black\dist\image 7.2.f42c081c.png133001437889366218 0
+55C:\Users\user\Desktop\black\dist\image 7.2.f42c081c.png133006447589012787 0
 51C:\Users\user\Desktop\black\dist\index.8952cfd2.css132998681540210855 0
 55C:\Users\user\Desktop\black\dist\index.8952cfd2.css.map132998681540238232 0
-55C:\Users\user\Desktop\black\dist\index.f7626f62.css.map133001437889545831 0
-43C:\Users\user\Desktop\black\dist\index.html133001437890003090 0
+55C:\Users\user\Desktop\black\dist\index.f7626f62.css.map133006451119611432 0
+43C:\Users\user\Desktop\black\dist\index.html133006450385556809 0
 53C:\Users\user\Desktop\black\dist\slider1.072bdcef.png132998681525903901 0
-63C:\Users\user\Desktop\black\dist\YesevaOne-Regular.60548bec.ttf133001437887549628 0
+52C:\Users\user\Desktop\black\dist\Vector.17a702fb.svg133006422603257595 0
+63C:\Users\user\Desktop\black\dist\YesevaOne-Regular.60548bec.ttf133006447587710484 0
 52C:\Users\user\Desktop\black\dist\ремонт.c7c77a01.mp4133001348541580590 0

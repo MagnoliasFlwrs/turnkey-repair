@@ -16,11 +16,11 @@
             <p class="header__logo">IC "Repair Design Project"</p>
             <nav class="navigation__links">
                 <a href="#" class="navigation__link act">HOME</a>
-                <a href="#" class="navigation__link">PROJECTS</a>
-                <a href="#" class="navigation__link">MEASUREMENT</a>
-                <a href="#" class="navigation__link">TEAM</a>
-                <a href="#" class="navigation__link">REVIEWS</a>
-                <a href="#" class="navigation__link">CONTACTS</a>
+                <a href="#completed" class="navigation__link">PROJECTS</a>
+                <a href="#measurer" class="navigation__link">MEASUREMENT</a>
+                <a href="#team" class="navigation__link">TEAM</a>
+                <a href="#clients" class="navigation__link">REVIEWS</a>
+                <a href="#contacts" class="navigation__link">CONTACTS</a>
             </nav>
             <div class="header__info">
                 <p class="header__number">+7 (928) 768-32-39</p>
@@ -29,7 +29,7 @@
 
         </div>
     </header>
-    <section class="about">
+    <section class="about" id="about">
         <div class="about__repair">
             <div class="inst">
                 <a href="#" class="about__repair__link__inst">INSTAGRAM</a>
@@ -57,7 +57,7 @@
             </div>
         </div>
     </section>
-    <section class="completed">
+    <section class="completed" id="completed">
         <div class="content completed__projects">
             <div class="completed__project__links">
                 <a href="#" class="completed__project__link active">Rostov-on-Don, Admiral</a>
@@ -95,10 +95,10 @@
                         </div>
                     </div>
                     <div class="switcher">
-                        <img src="./assets/images/completed/1.png" alt="" width="42px" height="14px"
+                        <img src="./assets/images/completed/1.png" alt="img" width="42px" height="14px"
                             style="margin: 0 30px 0 0 ;">
-                        <img src="./assets/images/completed/2.png" alt="" width="64px" height="10px">
-                        <img src="./assets/images/completed/3.png" alt="" width="42px" height="14px"
+                        <img src="./assets/images/completed/2.png" alt="img" width="64px" height="10px">
+                        <img src="./assets/images/completed/3.png" alt="img" width="42px" height="14px"
                             style="margin: 0 0 0 30px ;">
 
                     </div>
@@ -107,8 +107,8 @@
                     <div class="slides">
                         <input type="radio" name="r" id="r1" checked>
                         <input type="radio" name="r" id="r2">
-                        <div class="slide s1"><img src="./assets/images/completed/slider1.png" alt=""></div>
-                        <div class="slide"><img src="./assets/images/completed/slider2.png" alt=""></div>
+                        <div class="slide s1"><img src="./assets/images/completed/slider1.png" alt="slide"></div>
+                        <div class="slide"><img src="./assets/images/completed/slider2.png" alt="slide"></div>
                     </div>
                     <div class="slider__navigation">
                         <label for="r1" class="switch"></label>
@@ -159,8 +159,10 @@
                     <button type="submit">Submit</button>
                 </div>
                 <div class="check">
-                    <input type="checkbox" name="agree" checked>
-                    <label for="agree">I agree to the processing of personal data</label>
+                    <label class="container">I agree to the processing of personal data
+                        <input type="checkbox" checked="checked" name="check">
+                        <span class="checkmark"></span>
+                    </label>
                 </div>
             </form>
         </div>
@@ -235,7 +237,7 @@
             </div>
         </div>
     </section>
-    <section class="measurer">
+    <section class="measurer" id="measurer">
         <div class="content measurer__box">
             <form>
                 <h4>Leave a request for free
@@ -253,8 +255,10 @@
                     <input type="email" name="email" placeholder="Your email">
                 </div>
                 <div class="chebox">
-                    <input type="checkbox" name="check" checked>
-                    <label for="check">I agree to the processing of personal data</label>
+                    <label class="container">I agree to the processing of personal data
+                        <input type="checkbox" checked="checked" name="check">
+                        <span class="checkmark"></span>
+                    </label>
                 </div>
                 <button type="button">Call the measurer</button>
             </form>
@@ -301,7 +305,7 @@
                 <h3>
                     We realize your <br> wildest fantasies
                 </h3>
-                <div class="adapt"><img class src="./assets/images/fantasy/adaptive.png" alt="" width="340px" height="242px"></div>
+                <div class="adapt"><img class src="./assets/images/fantasy/adaptive.png" alt="fantasy" width="340px" height="242px"></div>
                 <div class="links">
                     <a href="">American classic</a>
                     <a href="">Empire</a>
@@ -318,12 +322,12 @@
 
             </div>
             <div class="photos1">
-                <img src="./assets/images/fantasy/1.png" alt="" width="354px" height="558px">
-                <img src="./assets/images/fantasy/2.png" alt="" width="354px" height="349px">
+                <img src="./assets/images/fantasy/1.png" alt="photo" width="354px" height="558px">
+                <img src="./assets/images/fantasy/2.png" alt="photo" width="354px" height="349px">
             </div>
             <div class="photos2">
-                <img src="./assets/images/fantasy/3.png" alt="" width="354px" height="275px">
-                <img src="./assets/images/fantasy/4.png" alt="" width="354px" height="624px">
+                <img src="./assets/images/fantasy/3.png" alt="photo" width="354px" height="275px">
+                <img src="./assets/images/fantasy/4.png" alt="photo" width="354px" height="624px">
             </div>
         </div>
 
@@ -478,11 +482,11 @@
                         <span>Приемка-сдача работ</span>
                     </div>
                 </div>
-                <img src="./assets/images/steps/image 3.png" alt="" width="">
+                <img src="./assets/images/steps/image 3.png" alt="pic" width="780" height="400">
             </div>
         </div>
     </section>
-    <section class="team">
+    <section class="team" id="team">
         <div class="content team__box">
             <h4>our team</h4>
             <svg width="114" height="29" viewBox="0 0 114 29" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -510,7 +514,7 @@
                 500 families and we are not going to stop</p>
             <div class="workers">
                 <div class="worker1 wcard">
-                    <img src="./assets/images/workers/1.png" alt="" width="70px" height="70px">
+                    <img src="./assets/images/workers/1.png" alt="workwer" width="70px" height="70px">
                     <div class="worker__info">
                         <h4>Dmitry tulyakov</h4>
                         <span>Project manager</span>
@@ -518,7 +522,7 @@
                     </div>
                 </div>
                 <div class="worker2 wcard">
-                    <img src="./assets/images/workers/2.png" alt="" width="70px" height="70px">
+                    <img src="./assets/images/workers/2.png" alt="workwer" width="70px" height="70px">
                     <div class="worker__info">
                         <h4>Larisa Kotlyarova</h4>
                         <span>Designer</span>
@@ -526,7 +530,7 @@
                     </div>
                 </div>
                 <div class="worker3 wcard">
-                    <img src="./assets/images/workers/3.png" alt="" width="70px" height="70px">
+                    <img src="./assets/images/workers/3.png" alt="workwer" width="70px" height="70px">
                     <div class="worker__info">
                         <h4>Alexey Efimov</h4>
                         <span>Foreman</span>
@@ -543,7 +547,7 @@
         </div>
 
     </section>
-    <section class="clients">
+    <section class="clients" id="clients">
         <div class="content clients__box">
             <h3>our clients</h3>
             <svg width="114" height="30" viewBox="0 0 114 30" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -575,7 +579,7 @@
             <div class="clients__reviews">
                 <div class="review">
                     <div class="autor">
-                        <img src="./assets/images/clients/1.png" alt="" width="76px" height="76px">
+                        <img src="./assets/images/clients/1.png" alt="client" width="76px" height="76px">
                         <p>Fedosova Maria
                             Konstantinovna</p>
                     </div>
@@ -679,7 +683,7 @@
                 </div>
                 <div class="review">
                     <div class="autor">
-                        <img src="./assets/images/clients/2.png" alt="" width="76px" height="76px">
+                        <img src="./assets/images/clients/2.png" alt="client" width="76px" height="76px">
                         <p>Afanasyev Sergey Alexandrovich</p>
                     </div>
                     <p>I want to thank the guys for their work. WE PUT YOUR SHOWER PART IN REPAIR. I am VERY grateful
@@ -782,7 +786,7 @@
                 </div>
                 <div class="review">
                     <div class="autor">
-                        <img src="./assets/images/clients/3.png" alt="" width="76px" height="76px">
+                        <img src="./assets/images/clients/3.png" alt="client" width="76px" height="76px">
                         <p>Kiriev Egor <br> Leonidovich</p>
                     </div>
                     <p>I want to thank the guys for their work. WE PUT YOUR SHOWER PART IN REPAIR. I am VERY grateful
@@ -888,7 +892,7 @@
         </div>
 
     </section>
-    <section class="contacts">
+    <section class="contacts" id="contacts">
         <div class="content contacts__box">
             <form>
                 <h4>have any questions?</h4>
@@ -907,12 +911,14 @@
                     <input type="text" name="question" placeholder="I want to know:">
                 </div>
                 <div class="data">
-                    <input type="checkbox" name="check" checked>
-                    <label for="check">I agree to the processing of personal data</label>
+                    <label class="container">I agree to the processing of personal data
+                        <input type="checkbox" checked="checked" name="check">
+                        <span class="checkmark"></span>
+                    </label>
                 </div>
                 <button type="submit">Submit</button>
             </form>
-            <h4>Rostov-on-Don, Nansen St., 239 Shopping Center
+            <h4 class="adress">Rostov-on-Don, Nansen St., 239 Shopping Center
                 Decorum Tel +7 (928) 768 32 29</h4>
             <div class="social">
                 <a href="#"><svg width="28" height="29" viewBox="0 0 28 29" fill="none"
@@ -950,12 +956,12 @@
         <div id="end" class="content footer__box">
             <p class="footer__logo">IC "Repair Design Project"</p>
             <nav class="navigation__links">
-                <a href="#" class="navigation__link act">HOME</a>
-                <a href="#" class="navigation__link">PROJECTS</a>
-                <a href="#" class="navigation__link">MEASUREMENT</a>
-                <a href="#" class="navigation__link">TEAM</a>
-                <a href="#" class="navigation__link">REVIEWS</a>
-                <a href="#" class="navigation__link">CONTACTS</a>
+                <a href="#about" class="navigation__link act">HOME</a>
+                <a href="#completed" class="navigation__link">PROJECTS</a>
+                <a href="#measurer" class="navigation__link">MEASUREMENT</a>
+                <a href="#team" class="navigation__link">TEAM</a>
+                <a href="#clients" class="navigation__link">REVIEWS</a>
+                <a href="#contacts" class="navigation__link">CONTACTS</a>
             </nav>
             <div class="footer__info">
                 <p class="footer__number">+7 (928) 768-32-39</p>
