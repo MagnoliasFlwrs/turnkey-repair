@@ -88,6 +88,32 @@ footer {
                 text-align: center;
                 font-style: normal;
                 color: #FFFFFF;
+                border: none;
+                animation: button 4s ease-in-out infinite;
+
+                @keyframes button {
+                    0% {
+                        background-color: #E3B873;
+                        box-shadow: 0 5px 10px #E3B873;
+                    }
+                    25% {
+                        background-color: #E3B873;
+                        opacity: 0.9;
+                        box-shadow: 0 0 5px #E3B873;
+                    }
+                    50% {
+                        background-color: #E3B873;
+                        opacity: 0.7;
+                    }
+                    50% {
+                        background-color: #E3B873;
+                        opacity: 0.5;
+                    }
+                    100% {
+                        background-color: #E3B873;
+                        opacity: 0.3;
+                    }
+                }
 
                 @media (max-width:1024px) {
                     font-size: 12px;
