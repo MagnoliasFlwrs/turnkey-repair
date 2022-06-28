@@ -25,7 +25,7 @@
 57C:\Users\user\Desktop\black\node_modules\term-size\vendor132996134013121751 1
 81C:\Users\user\Desktop\black\node_modules\abortcontroller-polyfill\src\ponyfill.js132990089746060000 0
 84C:\Users\user\Desktop\black\node_modules\@parcel\workers\lib\threads\ThreadsChild.js132990089752510000 0
-32C:\Users\user\Desktop\black\dist133006462370101510 1
+32C:\Users\user\Desktop\black\dist133009180489548732 1
 97C:\Users\user\Desktop\black\node_modules\@babel\highlight\node_modules\color-convert\CHANGELOG.md132990089880370000 0
 65C:\Users\user\Desktop\black\node_modules\css-tree\lib\syntax\node132996134020669422 1
 61C:\Users\user\Desktop\black\src\assets\images\workers\1_1.png133000528787311523 0
@@ -58,7 +58,7 @@
 128C:\Users\user\Desktop\black\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\b\index.js132990089870560000 0
 59C:\Users\user\Desktop\black\node_modules\source-map\LICENSE132990089872040000 0
 59C:\Users\user\Desktop\black\node_modules\css-tree\lib\lexer132996134019618176 1
-50C:\Users\user\Desktop\black\src\sass\contacts.scss133006451118437431 0
+50C:\Users\user\Desktop\black\src\sass\contacts.scss133009180487251991 0
 95C:\Users\user\Desktop\black\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json132990089878340000 0
 57C:\Users\user\Desktop\black\node_modules\escalade\license132990089757020000 0
 55C:\Users\user\Desktop\black\node_modules\weak-lru-cache132996134009043576 1
@@ -117,7 +117,7 @@
 58C:\Users\user\Desktop\black\node_modules\lmdb\src\misc.cpp132990089755440000 0
 59C:\Users\user\Desktop\black\src\assets\images\fantasy\4.png133000368307667641 0
 90C:\Users\user\Desktop\black\node_modules\@parcel\utils\test\input\sourcemap\source-root.js132990089745470000 0
-50C:\Users\user\Desktop\black\src\sass\measurer.scss133006447585263618 0
+50C:\Users\user\Desktop\black\src\sass\measurer.scss133009176644563528 0
 72C:\Users\user\Desktop\black\node_modules\cosmiconfig\dist\types.d.ts.map132990089826030000 0
 47C:\Users\user\Desktop\black\src\sass\steps.scss133006314751371329 0
 95C:\Users\user\Desktop\black\node_modules\@parcel\transformer-js\parcel-swc.linux-arm64-gnu.node132990089767310000 0
@@ -139,7 +139,7 @@
 66C:\Users\user\Desktop\black\node_modules\@parcel\types\build-ts.js132990089747450000 0
 96C:\Users\user\Desktop\black\node_modules\@parcel\package-manager\test\NodePackageManager.test.js132990089882420000 0
 46C:\Users\user\Desktop\black\src\sass\main.scss133006374793256571 0
-55C:\Users\user\Desktop\black\src\sass\onlinecontrol.scss133006462364492791 0
+55C:\Users\user\Desktop\black\src\sass\onlinecontrol.scss133009167067777382 0
 69C:\Users\user\Desktop\black\node_modules\nth-check\lib\esm\index.d.ts132990089870980000 0
 75C:\Users\user\Desktop\black\node_modules\type-fest\ts41\delimiter-case.d.ts132990089872570000 0
 69C:\Users\user\Desktop\black\node_modules\node-gyp-build\build-test.js132990089759980000 0
@@ -871,7 +871,7 @@
 57C:\Users\user\Desktop\black\node_modules\braces\README.md132990092848570000 0
 61C:\Users\user\Desktop\black\node_modules\@parcel\hash\LICENSE132990089739150000 0
 62C:\Users\user\Desktop\black\node_modules\yaml\browser\index.js132990089875810000 0
-51C:\Users\user\Desktop\black\dist\index.f7626f62.css133006462370062513 0
+51C:\Users\user\Desktop\black\dist\index.f7626f62.css133009180489548732 0
 63C:\Users\user\Desktop\black\node_modules\ordered-binary\LICENSE132990089768300000 0
 60C:\Users\user\Desktop\black\node_modules\yaml\browser\map.js132990089875810000 0
 96C:\Users\user\Desktop\black\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.umd.js.map132990089875990000 0
@@ -4559,7 +4559,7 @@
 55C:\Users\user\Desktop\black\dist\image 7.2.f42c081c.png133006447589012787 0
 51C:\Users\user\Desktop\black\dist\index.8952cfd2.css132998681540210855 0
 55C:\Users\user\Desktop\black\dist\index.8952cfd2.css.map132998681540238232 0
-55C:\Users\user\Desktop\black\dist\index.f7626f62.css.map133006462370101510 0
+55C:\Users\user\Desktop\black\dist\index.f7626f62.css.map133009180489548732 0
 43C:\Users\user\Desktop\black\dist\index.html133006450385556809 0
 53C:\Users\user\Desktop\black\dist\slider1.072bdcef.png132998681525903901 0
 52C:\Users\user\Desktop\black\dist\Vector.17a702fb.svg133006422603257595 0
