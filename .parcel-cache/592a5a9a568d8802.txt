@@ -25,7 +25,7 @@
 57C:\Users\user\Desktop\black\node_modules\term-size\vendor132996134013121751 1
 81C:\Users\user\Desktop\black\node_modules\abortcontroller-polyfill\src\ponyfill.js132990089746060000 0
 84C:\Users\user\Desktop\black\node_modules\@parcel\workers\lib\threads\ThreadsChild.js132990089752510000 0
-32C:\Users\user\Desktop\black\dist133009180489548732 1
+32C:\Users\user\Desktop\black\dist133010764357576484 1
 97C:\Users\user\Desktop\black\node_modules\@babel\highlight\node_modules\color-convert\CHANGELOG.md132990089880370000 0
 65C:\Users\user\Desktop\black\node_modules\css-tree\lib\syntax\node132996134020669422 1
 61C:\Users\user\Desktop\black\src\assets\images\workers\1_1.png133000528787311523 0
@@ -111,7 +111,7 @@
 87C:\Users\user\Desktop\black\node_modules\lmdb\node_modules\node-addon-api\noexcept.gypi132990089759760000 0
 70C:\Users\user\Desktop\black\node_modules\cosmiconfig\dist\index.js.map132990089826030000 0
 50C:\Users\user\Desktop\black\node_modules\nan\nan.h132990089736040000 0
-48C:\Users\user\Desktop\black\src\sass\design.scss133006310764967501 0
+48C:\Users\user\Desktop\black\src\sass\design.scss133010764351160139 0
 104C:\Users\user\Desktop\black\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-bdb.txt132990089755440000 0
 72C:\Users\user\Desktop\black\node_modules\caniuse-lite\data\regions\BM.js132996133980980000 0
 58C:\Users\user\Desktop\black\node_modules\lmdb\src\misc.cpp132990089755440000 0
@@ -871,7 +871,7 @@
 57C:\Users\user\Desktop\black\node_modules\braces\README.md132990092848570000 0
 61C:\Users\user\Desktop\black\node_modules\@parcel\hash\LICENSE132990089739150000 0
 62C:\Users\user\Desktop\black\node_modules\yaml\browser\index.js132990089875810000 0
-51C:\Users\user\Desktop\black\dist\index.f7626f62.css133009180489548732 0
+51C:\Users\user\Desktop\black\dist\index.f7626f62.css133010764357536614 0
 63C:\Users\user\Desktop\black\node_modules\ordered-binary\LICENSE132990089768300000 0
 60C:\Users\user\Desktop\black\node_modules\yaml\browser\map.js132990089875810000 0
 96C:\Users\user\Desktop\black\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.umd.js.map132990089875990000 0
@@ -4559,7 +4559,7 @@
 55C:\Users\user\Desktop\black\dist\image 7.2.f42c081c.png133006447589012787 0
 51C:\Users\user\Desktop\black\dist\index.8952cfd2.css132998681540210855 0
 55C:\Users\user\Desktop\black\dist\index.8952cfd2.css.map132998681540238232 0
-55C:\Users\user\Desktop\black\dist\index.f7626f62.css.map133009180489548732 0
+55C:\Users\user\Desktop\black\dist\index.f7626f62.css.map133010764357566637 0
 43C:\Users\user\Desktop\black\dist\index.html133006450385556809 0
 53C:\Users\user\Desktop\black\dist\slider1.072bdcef.png132998681525903901 0
 52C:\Users\user\Desktop\black\dist\Vector.17a702fb.svg133006422603257595 0
